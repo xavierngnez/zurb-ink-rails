@@ -2,13 +2,14 @@ ZURB Ink Rails
 =======
 
 Easy integration of [ZURB Ink](https://zurb.com/ink) into the asset pipeline.
+Intended for use with Rails 3.2+ and Rails 4.0+.
 
 Installation
 ------------
 
 Add this line to your application's `Gemfile`:
 
-    gem 'zurb-ink-rails', '~> 1.0.4'
+    gem 'zurb-ink-rails', '~> 1.0.5'
 
 And then execute:
 

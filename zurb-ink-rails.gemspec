@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name = 'zurb-ink-rails'
-  spec.version = '0.0.1'
+  spec.version = '1.0.5'
   spec.authors = ['Neal Kemp']
   spec.email = ['']
   spec.description = %q{ZURB Ink for Rails asset pipeline}
