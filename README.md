@@ -42,6 +42,7 @@ Credits
 -------
 
 * [Neal Kemp](http://nealke.mp)
+* [Eric Morris(https://github.com/elm232) for making ZURB Ink
 
 Copyright &copy; 2013 Neal Kemp
 
